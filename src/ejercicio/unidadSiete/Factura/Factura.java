@@ -4,7 +4,6 @@ import ejercicio.unidadSiete.combo.Combo;
 import ejercicio.unidadSiete.combo.ComboPumperFeliz;
 import ejercicio.unidadSiete.combo.ComboPumperGrande;
 import ejercicio.unidadSiete.combo.ComboPumperMediano;
-import ejercicio.unidadSiete.combo.ComboPumperSuper;
 
 public class Factura {
 	private Combo combo;
