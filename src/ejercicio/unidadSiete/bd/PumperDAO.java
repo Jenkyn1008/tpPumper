@@ -2,8 +2,10 @@ package ejercicio.unidadSiete.bd;
 
 import java.sql.Connection;
 import java.util.HashMap;
+import java.util.List;
 import java.util.Map;
 
+import ejercicio.unidadSiete.producto.Producto;
 import ejercicio.unidadSiete.util.Utils;
 
 public class PumperDAO {
@@ -148,7 +150,7 @@ public class PumperDAO {
 	 * 
 	 * TODO: reemplazar Object por algo mejor
 	 */
-	public Object consultarStockParcial() {
+	public List<Producto> consultarStockParcial() {
 		return null;
 	}
 	
