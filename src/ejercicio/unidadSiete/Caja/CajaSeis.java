@@ -2,7 +2,7 @@ package ejercicio.unidadSiete.Caja;
 
 public class CajaSeis extends Caja{
 
-	public CajaSeis(Boolean emiteFactura) {
+	public CajaSeis() {
 		super(Boolean.FALSE);
 	}
 

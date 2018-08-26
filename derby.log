@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sat Aug 25 23:57:39 ART 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0165-742a-6363-000005416450 
+on database directory /root/Java/workspace/tpPumper/tpPumper with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/root/Java/workspace/tpPumper/lib/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_181-b13
+user.dir=/root/Java/workspace/tpPumper
+os.name=Linux
+os.arch=amd64
+os.version=4.18.4-arch1-1-ARCH
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

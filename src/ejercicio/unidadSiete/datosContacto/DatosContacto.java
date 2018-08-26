@@ -6,10 +6,10 @@ public class DatosContacto {
 	
 	private String nombre;
 	private String apellido;
-	private Date fechaNacimiento;
+	private String fechaNacimiento;
 	private String nroTelefono;
 	
-	public DatosContacto(String nombre, String apellido, Date fechaNacimiento) {
+	public DatosContacto(String nombre, String apellido, String fechaNacimiento) {
 		super();
 		this.nombre = nombre;
 		this.apellido = apellido;
@@ -32,11 +32,11 @@ public class DatosContacto {
 		this.apellido = apellido;
 	}
 
-	public Date getFechaNacimiento() {
+	public String getFechaNacimiento() {
 		return fechaNacimiento;
 	}
 
-	public void setFechaNacimiento(Date fechaNacimiento) {
+	public void setFechaNacimiento(String fechaNacimiento) {
 		this.fechaNacimiento = fechaNacimiento;
 	}
 
